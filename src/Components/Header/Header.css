@@ -1,0 +1,18 @@
+.header {
+    width: 98vw;
+    height: 8vh;
+    background-color: rgb(0, 0, 0);
+}
+
+.headerleft {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 18px 22px;
+    margin-left: 20px;
+}
+
+.headerleft span {
+    margin-left: 40px;
+    font-size: 18px;
+}
