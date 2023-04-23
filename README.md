@@ -1,7 +1,10 @@
 IMDB Clone
+
 This is an IMDB (Internet Movie Database) clone, a web application that allows users to browse and search for movies, view movie details, and rate and review movies. The application is built using [insert technology stack here] and aims to replicate the core features and functionality of the popular IMDB website.
 
 Features
+
+
 Movie browsing: Users can search for movies by title, genre, or other criteria, and view a list of movies with relevant details such as title, release date, genre, and rating.
 Movie details: Users can click on a movie to view its details, including synopsis, cast and crew information, ratings, and reviews.
 User registration and authentication: Users can create accounts, log in, and log out to access additional features such as rating and reviewing movies.
